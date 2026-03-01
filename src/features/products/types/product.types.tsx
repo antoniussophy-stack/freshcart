@@ -1,0 +1,63 @@
+/*
+    Type definitions for product API responses
+    Generated from a sample JSON payload previously stored in this file.
+*/
+
+export interface Subcategory {
+    _id: string;
+    name: string;
+    slug: string;
+    category: string; // category id
+}
+
+export interface Category {
+    _id: string;
+    name: string;
+    slug: string;
+    image?: string;
+}
+
+export interface Brand {
+    _id: string;
+    name: string;
+    slug: string;
+    image?: string;
+}
+
+export interface Product {
+    sold?: number | null;
+    images: string[];
+    subcategory: Subcategory[];
+    ratingsQuantity?: number;
+    _id: string;
+    title: string;
+    slug: string;
+    description?: string;
+    quantity?: number;
+    price: number;
+    priceAfterDiscount?: number;
+    imageCover?: string;
+    category: Category;
+    brand?: Brand;
+    ratingsAverage?: number;
+    createdAt?: string;
+    updatedAt?: string;
+    id: string;
+}
+
+export interface Metadata {
+    currentPage: number;
+    numberOfPages: number;
+    limit: number;
+    nextPage?: number;
+}
+
+export interface ProductsResponse {
+    results: number;
+    metadata: Metadata;
+    data: Product[];
+}
+
+export interface SingleProductResponse {
+    data: Product
+}

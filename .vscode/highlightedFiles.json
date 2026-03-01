@@ -1,0 +1,211 @@
+{
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features": {},
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\components": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\components\\login": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\components\\login\\LoginForm.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\components\\login\\LoginHero.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\components\\signup": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\components\\signup\\SignupForm.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\components\\signup\\SignupHero.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\hooks": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\hooks\\useLogout.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\schemas": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\schemas\\login.schema.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\schemas\\signup.schema.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\screens": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\screens\\LoginScreen.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\screens\\SignupScreen.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\server": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\server\\auth.actions.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\server\\loginForm.action.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\server\\signupForm.actions.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\store": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\store\\auth.slice.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\types": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\types\\signupFormValues.types.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\auth\\utils": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\components": {},
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\components\\CartItems.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\components"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\components\\OrderSummary.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\components"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\hooks": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\schemas": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\screens": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\screens\\Cart.screen.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\server": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\server\\cart.actions.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\store": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\store\\cart.slice.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\types": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\types\\cart.types.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\cart\\utils": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\categories": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\categories\\components": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\categories\\hooks": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\categories\\screens": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\categories\\server": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\categories\\server\\categories.action.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\categories\\types": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\categories\\types\\categories.types.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home\\components": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home\\components\\FeaturedProducts.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home\\components\\NewsLetter.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home\\components\\OurCategories.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home\\components\\PromoCards.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home\\components\\PromoPanner.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home\\components\\Slider.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home\\screen": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\home\\screen\\Home.screen.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\components": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\components\\ProductCard.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\components\\ProductDetails": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\components\\ProductDetails\\ProductInfo.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\hooks": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\screens": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\screens\\ProductDetailes.screen.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\server": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\server\\product.action.ts": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\types": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  },
+  "e:\\course-front end\\E-Commerce\\freshcart\\src\\features\\products\\types\\product.types.tsx": {
+    "parent": "e:\\course-front end\\E-Commerce\\freshcart\\src\\features"
+  }
+}
